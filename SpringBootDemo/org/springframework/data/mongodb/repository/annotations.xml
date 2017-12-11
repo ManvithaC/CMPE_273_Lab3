@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.data.mongodb.repository.MongoRepository S insert(S)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
